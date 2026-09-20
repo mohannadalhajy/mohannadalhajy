@@ -11,16 +11,22 @@
   <a href="https://mohannad-alhajy.vercel.app/api/resume">Resume</a>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/architecture-dark.svg">
+    <img alt="Vidnik architecture: iOS/Android, web, the CRM and store webhooks all hit one NestJS API gateway fronting a modular monolith — identity and KYC, matching, realtime chat, moderation, billing, support desk — backed by MongoDB, Redis and S3, AWS Rekognition and OpenAI for vision, and Apple/Google billing with Socket.IO and FCM for delivery." src="assets/architecture-light.svg" width="100%">
+  </picture>
+</p>
+
 ---
 
-Full stack, weighted to the backend. I build the systems behind cross-platform
-payments, multi-tenant SaaS, and real-time features — Apple and Google billing
-that reconciles, one platform serving many companies without leaking data
-between them, chat and notifications that hold up under load — then ship the
-React and Next.js dashboards that operate them. Based in Dubai, shipping
-production systems for HR, legal, proptech, and social platforms.
-
 **5+** years experience · **20+** completed projects · **30,000+** users served in production
+
+Full stack, weighted to the backend — cross-platform payments, multi-tenant SaaS, real-time features.
+
+Apple and Google billing that reconciles. One platform serving many companies without leaking data between them. Chat and notifications that hold up under load.
+
+Then the React and Next.js dashboards that operate them. Based in Dubai, shipping production systems for HR, legal, proptech, and social platforms.
 
 ---
 
